@@ -45,8 +45,3 @@ pprint.pprint(locals())
 ## [When you write the code]
 - use an intuitive varialbe name and comment.
 - When you use the list comprehension, Using less than 2 list comprehension at one line.
-
-
-```python
-
-```
