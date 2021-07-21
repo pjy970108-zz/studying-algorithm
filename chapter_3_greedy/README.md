@@ -1,6 +1,6 @@
 # ch03. greedy
 <br>
-<br>
+
 greedy : choosing the better one in the present
 <br>
 
@@ -16,14 +16,10 @@ when you encounter this algorithm, the point is bigger numbers must be a multipl
 
 ## Table of Contents
 <br>
-
 3-1. change_money problem
 <br>
-
 3-2. the rule of big numbers
 <br>
-
 3-3. num_card_game
-
 <br>
 3-4. until_1
