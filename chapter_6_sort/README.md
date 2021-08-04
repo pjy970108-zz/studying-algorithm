@@ -29,10 +29,7 @@ if we know the sorting algorithm, we can do binary search.
     3) repeat untill list number was one
 <br>
 
-4. **count sort** : it was possilble only integer type data, cause we have to declare the list that save the all data. <br>
-
-it was useful for limited data size that was duplicated.
-<br>
+4. **count sort** : it was possilble only integer type data, cause we have to declare the list that save the all data. <br> it was useful for limited data size that was duplicated.
 
     1) just count the same index.
 
